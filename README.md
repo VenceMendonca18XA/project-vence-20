@@ -1,2 +1,2 @@
-# project-vence-20
-bullet and wall
+# p5.play-boilerplate
+Boiler plate for p5.play
